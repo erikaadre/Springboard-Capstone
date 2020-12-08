@@ -1,0 +1,12 @@
+,name,address,review_count,rating,price,categories,latitude,longitude,yelp_id,name_input,address_input,city_input,hours
+0,Gen Korean BBQ House,"24301 Crenshaw Blvd, Torrance, CA 90505",5393.0,4.0,$$,"Korean, Barbeque, Asian Fusion",33.805338,-118.328352,C6rP97tf5yi7INJCUH9A5w,GEN KOREAN BBQ,24301 CRENSHAW BLVD,TORRANCE,
+1,Denny's,"15553 Valley Blvd, La Puente, CA 91744",92.0,2.5,$,"Diners, Breakfast & Brunch, American (Traditional)",34.0207864,-117.9586692,U8Gfec-186rQ93-3jbLdCQ,DENNY'S,15553 E VALLEY BLVD,LA PUENTE,
+2,,,,,,,,,,TEA LAB,18912 E GALE AVE STE #A,ROWLAND HEIGHTS,
+3,El Botanitas,"3614 Martin Luther King, Bldg Jr, Lynwood, CA 90262",40.0,2.5,$$,"Mexican, Seafood, Cocktail Bars",33.931955,-118.2037977,k14x6AsgKlzbEB33wVCUwQ,EL BOTANITAS,3614 MLK JR BLVD,LYNWOOD,
+4,Polly's Pies Restaurant,"17198 Norwalk Blvd, Cerritos, CA 90703",346.0,3.5,$$,"Bakeries, American (Traditional), Breakfast & Brunch",33.87495,-118.0723,ouxSotRraoDXHGHvquM-fA,POLLY'S PIES,17198 S NORWALK BLVD,CERRITOS,
+5,Chinatown Express,"1320 Vine St, Los Angeles, CA 90028",16.0,3.0,$,Chinese,34.095,-118.32632,xY9YOYp76MmXVaV3Yivr1g,CHINATOWN EXPRESS,1320 N VINE ST,LOS ANGELES,
+6,Moun Of Tunis Restaurant,"7445 1/2 W Sunset Blvd, Los Angeles, CA 90046",271.0,4.0,$$,"Moroccan, African, Halal",34.098451,-118.352524,u8U8Zc1Se_gY30zNeOTSqg,MOUN OF TUNIS,7445 SUNSET BLVD # B,LOS ANGELES,
+7,Castaway,"1250 E Harvard Rd, Burbank, CA 91501",1859.0,3.5,,Venues & Event Spaces,34.2043474003288,-118.303187138913,vez1Tfa8hnGMBr1hJCuZjQ,CASTAWAY,1250 E HARVARD RD,BURBANK,
+8,,,,,,,,,,BLU TUSK,2114 S SAWTELLE BLVD # 211,LOS ANGELES,
+9,Starbucks,"9811 S Santa Monica Blvd, Beverly Hills, CA 90212",70.0,3.0,$$,Coffee & Tea,34.066695,-118.410275,hK68zFka1b4QEpWG62MY_A,STARBUCKS,9811 SANTA MONICA BLVD,BEVERLY HILLS,
+10,R & R Soul Food Restaurant,"18427 Avalon Blvd, Carson, CA 90746",526.0,3.5,$$,"Soul Food, Southern",33.8622575560292,-118.266549114156,jmuHtdZGmytkvO6R5s7z4Q,R & R SOUL FOOD,18427 S AVALON BLVD,CARSON,
